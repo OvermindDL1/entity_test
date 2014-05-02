@@ -15,6 +15,8 @@ package com.overminddl1.entity_test;
 // I will try to describe what I am doing to try to minimize lack of or misunderstandings.  I will inevitably fail and
 // when I do then just ask me to clarify something and I will clarify it in code or comments
 
+// TODO: Artemis lacks an event call system as most game Entity systems have, add it in, probably as a Manager.
+
 import com.artemis.Entity;
 import com.artemis.World;
 import com.artemis.managers.GroupManager;
